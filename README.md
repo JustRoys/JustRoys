@@ -1,4 +1,3 @@
-### Hi there 👋, my name is JustRoy
 ![](https://i.imgur.com/qlendZt.png)
 
 I made this project just for fun! 
